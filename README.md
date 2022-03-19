@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there, I'm Amanda! 👋
+
+- :nerd_face: Fullstack development student
+- 🌱 Currently learning Angular
+- :briefcase: Looking for intership this fall
+- :world_map: Living in Sweden
+- ⚡Loves a good meme
 
 <!--
 **amawre/amawre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
