@@ -1,7 +1,6 @@
 ### Hello there, I'm Amanda! 👋
 
 - :nerd_face: Fullstack development student
-- 🌱 Currently learning Angular and TypeScript
 - :world_map: Living in Sweden
 - ⚡Loves a good meme
 
