@@ -2,7 +2,6 @@
 
 - :nerd_face: Fullstack development student
 - 🌱 Currently learning Angular and TypeScript
-- :briefcase: Looking for intership this fall
 - :world_map: Living in Sweden
 - ⚡Loves a good meme
 
