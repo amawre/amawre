@@ -1,6 +1,6 @@
 ### Hello there, I'm Amanda! 👋
 
-- :nerd_face: Fullstack development student
+- :nerd_face: Fullstack developer
 - :world_map: Living in Sweden
 - ⚡Loves a good meme
 
